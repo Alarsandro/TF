@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\Source.cpp(27,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\Source.cpp(118,56): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\Source.cpp(144,31): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\Source.cpp(35,20): warning C4101: 'n_orden': variable local sin referencia
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\HashTable.h(67,19): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\HashTable.h(62): message : al compilar la función del miembro clase plantilla "int HashTable<Cliente>::_cuadraticProbing(int)"
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\HashTable.h(17): message : Vea la referencia a la creación de una instancia de la función plantilla "int HashTable<Cliente>::_cuadraticProbing(int)" que se está compilando
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\generador.h(41): message : Vea la referencia a la creación de una instancia de clase plantilla "HashTable<Cliente>" que se está compilando
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\HashTable.h(59,14): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\HashTable.h(56): message : al compilar la función del miembro clase plantilla "int HashTable<Cliente>::_hashFunction(std::string)"
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\HashTable.h(15): message : Vea la referencia a la creación de una instancia de la función plantilla "int HashTable<Cliente>::_hashFunction(std::string)" que se está compilando
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Servicio-de-comidas.vcxproj -> C:\Users\Usuario\Desktop\Servicio-de-comidas\x64\Debug\Servicio-de-comidas.exe

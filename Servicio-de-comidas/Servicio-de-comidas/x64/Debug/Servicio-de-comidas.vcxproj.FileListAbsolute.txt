@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Servicio-de-comidas\Servicio-de-comidas\x64\Debug\Servicio-de-comidas.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Servicio-de-comidas\Servicio-de-comidas\x64\Debug\Servicio-de-comidas.vcxproj.SuggestedBindingRedirects.cache
+D:\proyectos visual\estructura de datos\2 vez\trabajo final\Servicio-de-comidas\Servicio-de-comidas\x64\Debug\Servicio-de-comidas.vcxproj.AssemblyReference.cache
+D:\proyectos visual\estructura de datos\2 vez\trabajo final\Servicio-de-comidas\Servicio-de-comidas\x64\Debug\Servicio-de-comidas.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\x64\Debug\Servicio-de-comidas.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Servicio-de-comidas\Servicio-de-comidas\x64\Debug\Servicio-de-comidas.vcxproj.SuggestedBindingRedirects.cache
